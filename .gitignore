@@ -1,11 +1,8 @@
-# Backups de desenvolvimento
+# Backups e ferramentas de dev (não vão pra produção)
+_backups/
+_dev/
 index.html.bak*
 index.html.messy
 
 # macOS
 .DS_Store
-
-# Helpers de dev (não fazem parte do site)
-.kvserver.py
-shot.html
-mshot.html
