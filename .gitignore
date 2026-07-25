@@ -1,0 +1,10 @@
+# Backups de desenvolvimento
+index.html.bak*
+index.html.messy
+
+# macOS
+.DS_Store
+
+# Helpers de dev (não fazem parte do site)
+.kvserver.py
+shot.html

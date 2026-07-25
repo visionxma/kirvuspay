@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Bloqueia assets internos de rastreio desnecessario
+Disallow: /_ext/*.mjs$
+
+Sitemap: https://kirvuspay.com.br/sitemap.xml
